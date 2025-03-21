@@ -1,0 +1,24 @@
+:root {
+  --primary-gradient: linear-gradient(45deg, #4a00e0, #8e2de2);
+  --secondary-gradient: linear-gradient(45deg, #2b5876, #4e4376);
+  --primary-color: #4a00e0;
+  --secondary-color: #8e2de2;
+  --accent-color: #2b5876;
+  
+  --bg-color: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-color: #2d2d2d;
+  --text-secondary: #666666;
+  --border-color: #e0e0e0;
+  
+  --section-padding: 5rem 0;
+  --transition: all 0.3s ease;
+}
+
+.dark {
+  --bg-color: #1a1a1a;
+  --bg-secondary: #2d2d2d;
+  --text-color: #ffffff;
+  --text-secondary: #cccccc;
+  --border-color: #404040;
+} 
